@@ -1,0 +1,10 @@
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Release\AvvaCSharpSdkExamples.exe.config
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Release\AvvaCSharpSdkExamples.exe
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Release\AvvaCSharpSdkExamples.pdb
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Release\AvvaCSharpSdk.dll
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Release\RestSharp.dll
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Release\AvvaCSharpSdk.pdb
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Release\RestSharp.xml
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\obj\Release\AvvaCSharpSdkExamples.csprojResolveAssemblyReference.cache
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\obj\Release\AvvaCSharpSdkExamples.exe
+C:\Users\marcilio.leite\Documents\Visual Studio 2015\Projects\Avva\AvvaCSharpSdkExamples\obj\Release\AvvaCSharpSdkExamples.pdb
