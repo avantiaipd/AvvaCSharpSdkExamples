@@ -1,0 +1,10 @@
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Debug\AvvaCSharpSdkExamples.exe.config
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Debug\AvvaCSharpSdkExamples.exe
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Debug\AvvaCSharpSdkExamples.pdb
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Debug\AvvaCSharpSdk.dll
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Debug\AvvaCSharpSdk.pdb
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\obj\Debug\AvvaCSharpSdkExamples.csprojResolveAssemblyReference.cache
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\obj\Debug\AvvaCSharpSdkExamples.exe
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\obj\Debug\AvvaCSharpSdkExamples.pdb
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Debug\RestSharp.dll
+C:\Users\marcilio.leite\documents\visual studio 2015\Projects\Avva\AvvaCSharpSdkExamples\bin\Debug\RestSharp.xml
